@@ -5,7 +5,8 @@ This website hosts 2 subdomains, the [CDN](https://cdn.theultione.live) and my [
 
 ## About me
 I'm a plugin developer for SCP:SL and a discord bot developer using .NET and Python.
-[My GitHub](https://github.com/TheUltiOne)
+
+See [my GitHub](https://github.com/TheUltiOne)
 
 ## About this site
 This site is powered using [GitHub Pages](https://pages.github.com) ❤
